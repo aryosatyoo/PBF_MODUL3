@@ -1,4 +1,4 @@
-# ADRISTI IFTITAH YUNIAR
+# ARYO SATYO WANDOWO ADI
 ## TI3H - TUGAS MODUL 3 
 
 # Getting Started with Create React App
